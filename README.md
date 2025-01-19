@@ -7,8 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="right" alt="coding" width="400" src="![download](https://github.com/user-attachments/assets/9d94bfff-6880-4936-8c69-8ee5d613808e)
-"/> 
+<img align="right" alt="coding" width="400" src="![download](https://github.com/user-attachments/assets/9d94bfff-6880-4936-8c69-8ee5d613808e)"/> 
 - 🌱 I’m currently learning **HTML CSS and Javascript**
 
 - 👨‍💻 All of my projects are available at [https://adhil-adhi4905.github.io/my-website/](https://adhil-adhi4905.github.io/my-website/)
