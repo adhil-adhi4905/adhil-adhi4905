@@ -1,7 +1,9 @@
+src="https://camo.githubusercontent.com/3fb3870b02bcf34c84aa31d2e4ee34bb076d32e091e5576608d5f9515f5c920f/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f312a564d6d76496d636836565535706332566b74593175772e676966"
+
+
 <h1 align="center">Hi 👋, I'm Adhil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="[image](https://github.com/user-attachments/assets/dccdbae4-9d7f-400f-af5d-b30a34b47456)
-"  align="right" alt="coding" width="400" /> 
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adhil-adhi4905&label=Profile%20views&color=0e75b6&style=flat" alt="adhil-adhi4905" /> </p>
