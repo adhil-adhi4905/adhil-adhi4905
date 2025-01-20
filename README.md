@@ -1,5 +1,5 @@
 
-<img src="https://camo.githubusercontent.com/3fb3870……6669743…" alt="MasterHead" style="width: 100%; max-width: 100%; display: inline-block;" data-canonical-src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif" data-target="animated-image.originalImage">
+<img src="https://camo.githubusercontent.com/3fb3870……6669743…" alt="MasterHead" style="width: 100%; max-width: 100%; display: inline-block;" data-canonical>
 
 <h1 align="center">Hi 👋, I'm Adhil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
