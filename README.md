@@ -1,10 +1,10 @@
-src="https://camo.githubusercontent.com/3fb3870b02bcf34c84aa31d2e4ee34bb076d32e091e5576608d5f9515f5c920f/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f312a564d6d76496d636836565535706332566b74593175772e676966"
 
+<img src="https://camo.githubusercontent.com/3fb3870……6669743…" alt="MasterHead" style="width: 100%; max-width: 100%; display: inline-block;" data-canonical-src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif" data-target="animated-image.originalImage">
 
 <h1 align="center">Hi 👋, I'm Adhil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-
+z
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adhil-adhi4905&label=Profile%20views&color=0e75b6&style=flat" alt="adhil-adhi4905" /> </p>
 
