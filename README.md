@@ -1,17 +1,19 @@
 
-<img src="https://camo.githubusercontent.com/3fb3870……6669743…" alt="MasterHead" style="width: 100%; max-width: 100%; display: inline-block;" data-canonical>
+<p align="center">
+  <img 
+    src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif" 
+    alt="MasterHead" 
+    style="width: 100%; max-width: 100%;" 
+  />
+</p>
 
 <h1 align="center">Hi 👋, I'm Adhil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-z
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adhil-adhi4905&label=Profile%20views&color=0e75b6&style=flat" alt="adhil-adhi4905" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adhil-adhi4905" alt="adhil-adhi4905" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" />
 
 
 - 🌱 I’m currently learning **HTML CSS and Javascript**
